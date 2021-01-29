@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R3eygi9uUdCC87j2CxaCn8nAVvVq6cQsq/0Aw/wgCJUAgr8AToKf5xlDHigB4xuYj81WGeJ+upeiqLy+bHe6tA==",
+  "success": true,
+  "projectFilePath": "/Users/VlaD/Projects/nasty/nasty/nasty.csproj",
+  "expectedPackageFiles": [
+    "/Users/VlaD/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

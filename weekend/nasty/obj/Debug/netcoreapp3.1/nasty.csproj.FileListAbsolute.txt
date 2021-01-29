@@ -1,0 +1,12 @@
+/Users/VlaD/Projects/nasty/nasty/bin/Debug/netcoreapp3.1/nasty.deps.json
+/Users/VlaD/Projects/nasty/nasty/bin/Debug/netcoreapp3.1/nasty.runtimeconfig.json
+/Users/VlaD/Projects/nasty/nasty/bin/Debug/netcoreapp3.1/nasty.runtimeconfig.dev.json
+/Users/VlaD/Projects/nasty/nasty/bin/Debug/netcoreapp3.1/nasty.dll
+/Users/VlaD/Projects/nasty/nasty/bin/Debug/netcoreapp3.1/nasty.pdb
+/Users/VlaD/Projects/nasty/nasty/obj/Debug/netcoreapp3.1/nasty.csprojAssemblyReference.cache
+/Users/VlaD/Projects/nasty/nasty/obj/Debug/netcoreapp3.1/nasty.AssemblyInfoInputs.cache
+/Users/VlaD/Projects/nasty/nasty/obj/Debug/netcoreapp3.1/nasty.AssemblyInfo.cs
+/Users/VlaD/Projects/nasty/nasty/obj/Debug/netcoreapp3.1/nasty.csproj.CoreCompileInputs.cache
+/Users/VlaD/Projects/nasty/nasty/obj/Debug/netcoreapp3.1/nasty.dll
+/Users/VlaD/Projects/nasty/nasty/obj/Debug/netcoreapp3.1/nasty.pdb
+/Users/VlaD/Projects/nasty/nasty/obj/Debug/netcoreapp3.1/nasty.genruntimeconfig.cache
